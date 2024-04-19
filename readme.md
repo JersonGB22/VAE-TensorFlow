@@ -19,9 +19,9 @@ Implementations have been conducted in TensorFlow and PyTorch, the two most wide
 ## **Results achieved by the models**
 
 <div style="display: flex; justify-content: center;">
-    <div style="display: flex; justify-content: center; max-width: 1000px;">
-        <img src="images/vae_anime_faces/anime_faces_vae.gif" style="width: 500px; margin-left: -100px;">
-        <img src="images/vae_mnist/mnist_vae.gif" style="width: 500px; margin-left: -100px;">
+    <div style="display: flex; justify-content: center; max-width: 800px;">
+        <img src="images/vae_anime_faces/anime_faces_vae.gif" style="width: 400px; margin-left: -100px;">
+        <img src="images/vae_mnist/mnist_vae.gif" style="width: 400px; margin-left: -100px;">
     </div>
 </div>
 
